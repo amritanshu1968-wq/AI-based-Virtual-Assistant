@@ -100,8 +100,5 @@ This project is licensed under the [MIT License](LICENSE).
 - 📊 Conversation history export
 - 🖼️ AI-powered image generation integration
 
----
-
-## 👨‍💻 Author
-Developed by **Amritanshu Shukla**  
+ 
 Feel free to ⭐ this repo if you like it!
