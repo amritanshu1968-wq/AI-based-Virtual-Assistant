@@ -2,9 +2,6 @@
 
 An interactive chatbot powered by **Meta’s LLaMA 3 (70B)** via **OpenRouter**, built with **Streamlit**.  
 Supports chat, code generation, language translation, explanations, and even **speech input** — all in one sleek interface!
-
-![LlamaBuddy Preview](preview.png)
-
 ---
 
 ## 🚀 Features
