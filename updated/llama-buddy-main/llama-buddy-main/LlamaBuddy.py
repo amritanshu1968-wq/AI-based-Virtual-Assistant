@@ -17,7 +17,7 @@ if "current_chat" not in st.session_state:
 if "last_request_time" not in st.session_state:
     st.session_state.last_request_time = 0
 
-# Alias for current messages
+# Alias for current messagesss
 messages = st.session_state.conversations[st.session_state.current_chat]["messages"]
 
 def get_llama_response(messages):
