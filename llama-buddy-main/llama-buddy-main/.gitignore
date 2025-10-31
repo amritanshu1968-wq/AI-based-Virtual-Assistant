@@ -1,0 +1,7 @@
+__pycache__/
+.vscode/
+.streamlit/
+*.pyc
+py310env/
+.env
+config.json
